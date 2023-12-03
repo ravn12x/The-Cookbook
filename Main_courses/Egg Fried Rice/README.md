@@ -28,6 +28,15 @@ Author: Niruvibes <br>
   a curved thingy
 <h2> Method </h2>
   <img src="image.png" />
+1. Coat Wok in peanut oil
+2. Once the oil starts to smoke throw away the oil
+3. Add more oil to the wok and fry your thinly sliced shallots and the whites of the spring onion until they are fragrant
+4. Add your egg and scramble until it is almost solid
+5. Add your day old or dried rice, feel free to add more oil if the wok gets dry
+6. drizzle your soy sauce around the edges of your rice and then toss to incorporate
+7. Add the sesame oil and msg to the wok
+8. Add the greens of your spring onion and add your chili. Stir and fry until it looks and smells as desired 
+
 <h2> Conclusion </h2>
   It tastes pretty good
 <h2> Discussion </h2>
