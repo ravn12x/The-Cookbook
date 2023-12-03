@@ -30,7 +30,7 @@ Author:
 6. Add the tomatoes carefully if you want the soup to be a little chunky you can chop the tomatoes before adding them
 7. Add some more salt and let it simmer for at least 10 minutes or longer if you have time
 8. Blend it using an immersion blender 
-9. If desiered you can mount butter in it (You dont have to do this)
+9. If desired you can mount with butter (You dont have to do this)
 10. And serve
 
 ## Conclusion
@@ -38,3 +38,5 @@ Youre now left with a really nice a good tomato soup, can be served as a standal
 
 ## Discussion
 You can serve it with some fresh herbs and some bread, the options are endless
+
+Instead of mounting with butter you can add cream it brightens the soup a lot
