@@ -11,7 +11,7 @@ Author:
 
 ## Ingredients
 ### The cake
-* 100g haslenuts
+* 100g hazelnuts
 * 200g marzipan
 * 200g sugar
 * 200g butter
@@ -21,9 +21,9 @@ Author:
 
 ### The glaze
 * Cinnamon
-* Coaca powder
-* Powderd sugar
-* Tap water
+* Cocoa powder
+* Powdered sugar
+* Water
 * 25g white or dark chocolate (Optional)
 
 ## Materials
@@ -31,22 +31,22 @@ Author:
 
 ## Method
 * You can start heating the oven to 448 kelvin (175 celsius), and taking the butter out of the fridge if you haven't already
-* Roast the hasselnuts for about 10 minutes, try to avoid browning them by frequantly shaking the pan
-* Take the shels of the nuts and blend them
-* Roughfly grate the marzipan and put it in a bowl
+* Roast the hazelnuts for about 10 minutes, try to avoid browning them by frequantly shaking the pan
+* Take the shells of the nuts and blend them
+* Roughly grate the marzipan and put it in a bowl
 * Add the sugar and the butter
 * Whip it lightly while adding the eggs one by one
-* Add the hasselnuts
-* Chop the chokolade rougfly and add it to the mix
+* Add the hazelnuts
+* Chop the chokolade roughly and add it to the mix
 * Cover your baking tin in baking paper
 * Let the cake bake for 50 minutes 448 kelvin (175 celsius)
 * When you take it out let it cool
 * Make the glaze, you can add cinamon and cocao powder
-* Melt some chocolate in a water bath
+* Melt some chocolate using the double boiler method
 * Pour the chocolate on in small stripes
 
 ## Conclusion
-You now have a well tasting gluton free chokolade cake
+You now have a well tasting gluten free chokolade cake
 
 ## Discussion
 We put cocolate and glaze on top, but you can put whatever you want on top
