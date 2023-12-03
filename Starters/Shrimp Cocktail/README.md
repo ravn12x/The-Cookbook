@@ -38,7 +38,7 @@ Author:
 * Add garnish such as a slice of lemon, caviar and or some dill
 
 ## Conclusion
-A very eazy to make starter that's also great for Covid-19 since it's portion arranged
+A very easy to make starter that's also great for Covid-19 since it's portioned
 
 ## Discussion
 You can vary the ingedients as much as you want depending on what you like
