@@ -18,7 +18,7 @@ Author:
 
 ### Other toppings could include
 * Diced red onion
-* Diced rabede
+* Diced beets
 * etc
 
 ## Materials
@@ -32,7 +32,7 @@ Author:
 5. Plate the pariserbøf with capers, grated horseradish and an egg yolk each, it can be a good idea to put the egg yolk on first so the rest of the toppings stick to the meat
 
 ## Conclusion
-You will be presented with a really good "man" dish it might not be something to serve on a first date but for a football night with the boiz there is nothing better
+You will be presented with a really good "main" dish it might not be something to serve on a first date but for a football night with the boiz there is nothing better
 
 ## Descussion
-You can of cause vary how much meat / garnish to add or remove depending on you're taste
+You can of course vary how much meat / garnish to add or remove depending on your taste
