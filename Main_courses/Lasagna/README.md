@@ -21,7 +21,7 @@ Author:
 * 1 kilo ground meat
 * 3-4 cans of crushed tomatos
 * One small can of tomato paste
-* A meat broth cube
+* A stock cube or buillon cube
 * A bit of milk or sugar
 
 ### Bechamel sauce
@@ -30,17 +30,18 @@ Author:
 * Some milk
 * Salt
 * Peper
-* Destroyed nutmeg nut 
+* crushed nutmeg
 
 ### Other
 * Mozzarella cheese
-* Dried oregano
+* Dried oregano (you can also use herbs de provence)
 
 ## Materials
 * Pasta maker (optional)
 * Large pot
 * Small sauce pot
 * Large baking pan
+* garlic press or good knife skills
 
 ## Method
 ### Step 1 making the pasta dough
@@ -48,34 +49,36 @@ Author:
   2. Knead the pasta until it comes together and has an even texture
   3. Wrap it up in saran wrap and store it in the fridge until needed
   
-### Step 2 the meat sauce
-  1. Cut the onions into thin strips and destroy the garlic
+### Step 2 the bolognese sauce
+  1. Cut the onions into thin strips and press the garlic
   2. Combine it in a big hot pot with oil
-  3. Stir ontil the onions are browned
-  4. Put the gounded meat in the pot as well
+  3. Stir until the onions are browned
+  4. Put the ground meat in the pot
   5. Wait till the meat has browned
-  6. Put the cans with crushed tomatos and tomato paste in the pot
-  7. Put in the broth cube in
-  8. Put a bit of milk or sugar in to make it sweet and thereby making the tomato taste better
+  6. Put the cans of crushed tomatos and tomato paste in the pot
+  7. Put in the stock or buillon cube in
+  8. Add a bit of milk or sugar in to make it sweet and thereby making the tomato taste better
   9. You can just let it be on low heat, just remember to stir it
   
 ### step 3 the bechamel sauce
   1. Melt the butter
-  2. Put in flour a bit at a time while whipping the sauce
-  3. Put in milk a bit at a time till you think it has the right consistency
+  2. Put in flour a bit at a time while whipping the sauce to make your roux
+  3. Add in the milk a little bit at a time till you think it has the right consistency
   4. Put salt, peper and nutmeg in
-  5. Let it stand on low heat while you do the last stuff, remember to whip it and if it gets to thick pour some milk in
+  6. Let it sit on low heat while you do the last stuff, remember to whip it and if it gets to thick pour some milk in
    
 ### step 4 make the pasta
-  1. Roll the pasta to thin plates about a milimeter if you can, using a pasta maker here will make it easier
+  1. Roll the pasta into thin plates about a milimeter if you can, using a pasta maker here will make it easier
   
 ### step 5 make the lasagna
-  1. Take the baking pan and put meatsauce in, then pasta plates to cover it all, you can then keep doing that and add bechamel sauce to every second layers
-  2. When you run out of ingredients or reach the top of the pan cover it with some meatsauce and put cheese and oregano on top
+  1. Take the baking pan and put the bolognese in, then pasta plates to cover it all, you can then keep doing that and add bechamel sauce to every second layers
+  2. When you run out of ingredients or reach the top of the pan cover it with some bolognese and put cheese and oregano on top
   3. Put it in the oven at 473.15 degrees kelvin (200 degrees celsius), and wait till the surface looks good
 
 ## Conclusion
-You have now made a well tasting lagsaner for around 4-6 people or for you for a few days
+You have now made a well tasting lasagna for around 4-6 people or for you for a few days or for 1 day if you are garfield
 
 ## Descussion
-With a lasagna you can be quite creative, replacing or adding components such as graited carrot etc
+With a lasagna you can be quite creative, replacing or adding components such as grated carrot etc
+You can add the tomato paste in before the meat but after the onion to build great flavour
+You can also add mozzarella to the bechamel to make it more velvety
