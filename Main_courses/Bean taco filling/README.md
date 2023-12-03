@@ -15,20 +15,20 @@ Author:
 - 3 onion
 - Fajita seasoning, home made or store bought (other mexican dry seasonings can also be used)
 - 600 - 700 grams cherry tomatoes
-- Some cooking oil
+- any cooking oil
 
 ## Materials
-- Cuttingboard
+- Cutting board
 - Knife
 - Large pot
 
 ## Method
 1. Cut the onion into long thin strips
 2. Heat up the pan with a drizzle of oil and put in the onion
-3. Half the tomatoes and add it to the pot when the onion has starterd to turn transparent (not brown, if they brown you have too much heat or too little oil)
+3. Cut the tomatoes in half and add it to the pot when the onion starts to turn transparent (not brown, if they brown you have too much heat or too little oil)
 4. When the tomatoes have gone soft, add the beans and corn. Be sure to drain the cans before adding them
-5. Seanson with fajita seasoning to taste
-6. Let it cook for a few minutes under a lid so the beans get cooked though
+5. Season with fajita seasoning to taste
+6. Let it cook for a few minutes under a lid so the beans get cooked through
 
 ## Conclusion
 You're left with a great taco filling that is both high in protine and fully vegan.
