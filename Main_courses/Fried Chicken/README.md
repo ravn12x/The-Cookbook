@@ -21,16 +21,16 @@ Author:
 * 50 grams of salt
 
 ## Materials
-* A wine rack
+* A cooling rack
 * A pot
 * Some tongs to take out the chicken with
 
 ## Method
-1. Butterfly cut the chiken breasts
+1. Butterfly the chiken breasts
 2. Brine the chiken in salt water (5%, 50 grams salt per 1 liter water) for at least 4 hours
-3. Wash off any excess saltwater and heat up some neutral oil, no more than half way up the pot when the chiken is added
+3. Wash off any excess saltwater and heat up some neutral oil, no more than half way up the pot when the chicken is added
 4. Mix the garlic powder, onion powder, paprika, salt pepper and dried herbs into some flour onto a plate
-5. Coat the chiken in buttermilk or plain yoghurt and dip it in the flour
+5. Coat the chicken in buttermilk or plain yoghurt and dip it in the flour
 6. The oil should bubble a bit but not too much when the chicken is placed in it. Place the chicken in the oil and let it cook for 7 minutes
 7. Once done place it on a wine rack  
 Note that breasts should be at least 336.15K (63C) and 346.15K (73C) for a drum
@@ -38,3 +38,4 @@ Note that breasts should be at least 336.15K (63C) and 346.15K (73C) for a drum
 ## Conclusion
 
 ## Discussion
+Alternatively you can salt the breast or drum and leave on a cooling rack to dry brine in the fridge
