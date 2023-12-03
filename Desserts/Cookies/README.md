@@ -26,7 +26,7 @@ Author:
 
 ## Method
 1. Cut the butter in slices and put it in the bowl with the sugar. Mix. <br>
-_Tip_ : If you don't have half-salt butter, put regular butter instead and add 1 teaspoon of coarse salt.
+_Tip_ : If you don't have half-salt butter, add regular unsalted butter instead and add 1 teaspoon of coarse salt.
 2. Add vanilla powder (I usually put 1 teaspoon but it's up to you to decide how much you want to put in) and the egg. Mix again.
 3. Add the flour and mix.
 4. Turn on your oven at 160° (if your oven is old, you might need to put it at 180°).
