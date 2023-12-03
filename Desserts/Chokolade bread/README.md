@@ -12,12 +12,12 @@ Author:
 * 1 tsp baking soda
 * 200 grams / 2½ dl sukker
 * 1 tsp vanilla sugar
-* 4 tbsk cocao powder
+* 4 tbsk cocoa powder
 * 225 gram room temperature butter
 * 2 egg
 
 ### Extra
-* Decoration for the cake like nuts or sprinkle
+* Decoration for the cake like nuts or sprinkles
 * You can use egg white brush on the cake before putting it in the oven
 
 ## Materials
